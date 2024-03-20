@@ -26,7 +26,7 @@ Additionally, the project requires access to the MIMIC-IV dataset.
 
 The project is divided into two separate Jupyter notebooks:
 
-1. **LoS Prediction.ipynb**: This notebook focuses on predicting the length of stay for patients using various machine learning algorithms. It includes data preprocessing, model training, evaluation, and visualization. *Refer to the pdf version for complete preview*
+1. **LoS.ipynb**: This notebook focuses on predicting the length of stay for patients using various machine learning algorithms. It includes data preprocessing, model training, evaluation, and visualization. *Refer to the pdf version (LoS Prediction) for complete preview*
 
 2. **Disease Prediction.ipynb**: This notebook is dedicated to predicting disease outcomes for patients based on the MIMIC-IV dataset. Similar to the LoS prediction notebook, it covers data preprocessing, model training, evaluation, and visualization.
 
